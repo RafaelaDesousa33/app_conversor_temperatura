@@ -66,10 +66,6 @@ Quero evoluir o projeto futuramente adicionando:
 
 Conversão para Kelvin
 
-Interface gráfica simples
-
-Versão web utilizando Gradio
-
 Validação de entrada do usuário
 
 Criação de uma pequena API de conversão
